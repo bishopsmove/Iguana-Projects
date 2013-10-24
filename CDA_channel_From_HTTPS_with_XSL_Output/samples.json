@@ -1,0 +1,12 @@
+{
+   "Samples": [
+      {
+         "Message": "GET /cda HTTP/1.1\r\nHost: localhost:6544\r\nConnection: keep-alive\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36\r\nReferer: http://localhost:6543/dashboard.html\r\nAccept-Encoding: gzip,deflate,sdch\r\nAccept-Language: en-US,en;q=0.8\r\n\r\n\r\n",
+         "Name": ""
+      },
+      {
+         "Message": "GET /cda?resource=WebViewLayout_CDA.xsl HTTP/1.1\r\nHost: localhost:6544\r\nConnection: keep-alive\r\nAccept: text/xml, application/xml, application/xhtml+xml, text/xsl, application/rss+xml, application/atom+xml\r\nUser-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36\r\nReferer: http://localhost:6544/cda\r\nAccept-Encoding: gzip,deflate,sdch\r\nAccept-Language: en-US,en;q=0.8\r\n\r\n\r\n",
+         "Name": ""
+      }
+   ]
+}
